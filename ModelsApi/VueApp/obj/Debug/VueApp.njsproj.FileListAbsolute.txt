@@ -1,0 +1,2 @@
+C:\Users\mikke\Documents\GitHub\GUI3\ModelsApi\VueApp\obj\Debug\VueApp.njsproj.CoreCompileInputs.cache
+C:\Users\mikke\Documents\GitHub\GUI3\ModelsApi\VueApp\bin\Microsoft.NodejsTools.WebRole.dll

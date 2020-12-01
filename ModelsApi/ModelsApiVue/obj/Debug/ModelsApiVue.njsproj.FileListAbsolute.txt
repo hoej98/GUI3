@@ -1,0 +1,3 @@
+C:\Users\mikke\Documents\GitHub\GUI3\ModelsApi\ModelsApiVue\obj\Debug\ModelsApiVue.njsprojAssemblyReference.cache
+C:\Users\mikke\Documents\GitHub\GUI3\ModelsApi\ModelsApiVue\obj\Debug\ModelsApiVue.njsproj.CoreCompileInputs.cache
+C:\Users\mikke\Documents\GitHub\GUI3\ModelsApi\ModelsApiVue\bin\Microsoft.NodejsTools.WebRole.dll
